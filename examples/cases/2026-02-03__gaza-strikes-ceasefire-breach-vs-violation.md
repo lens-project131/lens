@@ -18,7 +18,6 @@
 - **Optional references (R3/R4):** <if present>
 
 ## Lens Output (verbatim)
-~~~~text
 ## 01. The Narrative Split
 
 **Lens A (Reuters)**: *Israeli strikes on Gaza kill more than 30, Palestinian health officials say* (Dateline: Cairo/Jerusalem)
@@ -121,4 +120,3 @@ R2 *Children among 31 Palestinians killed by Israeli forces across Gaza* (https:
 | L | “The Israeli military said…” / “Palestinian health officials said.” ([reuters.com](https://www.reuters.com/world/middle-east/israeli-strikes-kill-12-gaza-health-ministry-says-2026-01-31/)) | “Egypt and Qatar… condemned” + UNRWA head quote ([aljazeera.com](https://www.aljazeera.com/news/2026/1/31/israeli-forces-kill-12-palestinians-across-gaza-attacks-reported-in-rafah)) |
 | Q | “killing more than 30 people” + “death toll at 32” + “killing 13 people” ([reuters.com](https://www.reuters.com/world/middle-east/israeli-strikes-kill-12-gaza-health-ministry-says-2026-01-31/)) | “at least 31… including six children” + “at least 524 Palestinians have been killed” ([aljazeera.com](https://www.aljazeera.com/news/2026/1/31/israeli-forces-kill-12-palestinians-across-gaza-attacks-reported-in-rafah)) |
 | M | “under U.S. President Donald Trump’s plan” + “Hamas disarmament… peacekeeping force” ([reuters.com](https://www.reuters.com/world/middle-east/israeli-strikes-kill-12-gaza-health-ministry-says-2026-01-31/)) | “Israel… ‘limited movement of people’… Israel retains control over who is allowed to enter and exit.” ([aljazeera.com](https://www.aljazeera.com/news/2026/1/31/israeli-forces-kill-12-palestinians-across-gaza-attacks-reported-in-rafah)) |
-~~~~

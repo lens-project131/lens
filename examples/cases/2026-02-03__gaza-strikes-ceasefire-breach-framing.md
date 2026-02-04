@@ -1,4 +1,3 @@
-
 # Case: Gaza strikes — impact-first vs breach-first framing
 
 ## Snapshot Metadata
@@ -19,7 +18,6 @@
 - **Optional references (R3/R4):** None
 
 ## Lens Output (verbatim)
-~~~~text
 ### 01. The Narrative Split
 
 Lens A (Reuters): “Israeli strikes on Gaza kill more than 30, Palestinian health officials say” (Middle East).  
@@ -42,7 +40,7 @@ The Times of Israel flips the stack. The headline and lede are engineered around
 
 Reuters stays closer to procedural wire-language: “gunmen,” “militant group,” “weapons caches,” “manufacturing sites,” paired with “Hamas-run police” and “Palestinian health officials.” The rhetoric is calibrated to keep claims attributable and symmetrical: Israel says X, Hamas says Y. The most morally charged language is outsourced to a direct quote from a relative—human grief becomes the only “loaded term,” and it’s framed as lived testimony, not editorial judgment. ([reuters.com](https://www.reuters.com/world/middle-east/israeli-strikes-kill-12-gaza-health-ministry-says-2026-01-31/))
 
-The Times of Israel injects a categorical label set: “terror commanders,” “terror organizations,” plus a doctrinal claim—these groups “systematically violate international law… brutally exploiting civilian institutions.” This rhetoric does two things at once: it escalates the moral classification of actors, and it pre-defends civilian-site strikes by asserting that civilian institutions are operationally co-opted. The reader is nudged toward a conclusion where the *location of harm* is not evidence against the strike, but evidence of the adversary’s method. ([timesofisrael.com](https://www.timesofisrael.com/at-least-28-gazans-said-killed-in-wave-of-strikes-as-idf-responds-to-truce-violation/))
+The Times of Israel injects a categorical label set: “terror commanders,” “terror organizations,” plus a doctrinal claim—these groups “systematically violate (international law… brutally exploiting civilian institutions.” This rhetoric does two things at once: it escalates the moral classification of actors, and it pre-defends civilian-site strikes by asserting that civilian institutions are operationally co-opted. The reader is nudged toward a conclusion where the *location of harm* is not evidence against the strike, but evidence of the adversary’s method. ([timesofisrael.com](https://www.timesofisrael.com/at-least-28-gazans-said-killed-in-wave-of-strikes-as-idf-responds-to-truce-violation/))
 
 ---
 
@@ -86,6 +84,7 @@ The Times of Israel reinforces its frame through *legitimacy mechanics*: verific
 |                    Reclaim Your Cognitive Sovereignty.                          |
 |                                                                                |
 +--------------------------------------------------------------------------------+
+```
 
 ### Forensic Endpoint
 
@@ -111,9 +110,5 @@ R2 The Times of Israel — 32 Gazans said killed in wave of strikes as IDF respo
 | Q | “...death toll at 32.” + “Israeli fire has killed over 500 people…” + “...killed four Israeli soldiers...” | “At least 32 Palestinians…” + “...another 30 people wounded…” + “...killing some 1,200… 251 hostages.” |
 | M | “Our Standards: The Thomson Reuters Trust Principles.” | “Is accurate Israel coverage important to you? … join The Times of Israel Community…” |
 ~~~~text
-[PASTE THE ENTIRE LENS OUTPUT HERE — UNCHANGED]
-[INCLUDE SECTIONS 01–04]
-[INCLUDE THE SYSTEM WARNING BOX]
-[INCLUDE THE FORENSIC ENDPOINT]
-[INCLUDE THE EVIDENCE APPENDIX]
+
 ~~~~
